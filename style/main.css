@@ -51,7 +51,7 @@ header nav a:hover {
 
 .filmePrincipal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/img/gargantua.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('img/gargantua.jpg');
 
     height: 400px;
     background-size: cover;
